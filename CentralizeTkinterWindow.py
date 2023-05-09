@@ -12,7 +12,7 @@ class App:
 
         # row 0
         label_desc = tk.Label(self.main, font=("Arial", 20, "bold"),
-                              text="This is a example of window in Tkinter \nwhich "
+                              text="This is an example of window in Tkinter \nwhich "
                                    "opens (Tkinter default) uncentralized.")
         label_desc.grid(row=0, column=0, padx=(30, 30), sticky="S")
 
